@@ -1,5 +1,5 @@
 {
-  "name": "mosca",
+  "name": "acuitusag_mosca",
   "version": "2.8.4",
   "description": "MQTT broker as a module",
   "main": "index.js",
